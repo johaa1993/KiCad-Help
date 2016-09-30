@@ -6,4 +6,5 @@
 ```bash
 git clone https://github.com/KiCad/kicad-library ~/kicad-library
 sudo rsync -a ~/kicad-library/* /usr/share/kicad
+sudo rm -rf ~/kicad-library
 ```
